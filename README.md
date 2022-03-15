@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sauucey-CEO
-- 👀 I’m interested in creating games and websites.
+- 👀 I’m interested in creating Discord Bots and Websites.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on s discord bot or a website.
+- 💞️ I’m looking to collaborate on a Discord bot or a website.
 - 📫 How to reach me on my Discord: Sauucey#3951.
 
 <!---
